@@ -1,2 +1,2 @@
 # resume-builder
-This is to do a free project from udacity
+This repository is to do a course project from Udacity.
